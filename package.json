@@ -1,0 +1,24 @@
+{
+  "name": "image-op",
+  "version": "1.0.0",
+  "description": "Optimizador y minificador de imagenes",
+  "main": "gulpfile.js",
+  "scripts": {
+	"start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landinezrichard/image-op.git"
+  },
+  "author": "Ricardo Landínez <landinezrichard64gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/landinezrichard/image-op/issues"
+  },
+  "homepage": "https://github.com/landinezrichard/image-op#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0"
+  }
+}
